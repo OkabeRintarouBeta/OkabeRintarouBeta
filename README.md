@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💼 Actively seeking internships/full time SDE/full-stack opportunities for 2023
 - 💬 Ask me about C++, Python and my projects on okaberinatroubeta@gmail.com
 - ⚡ Fun fact: I am good at playing badmintion and love animes!
-- ✨ See my portfolio [here](https://okaberintaroubeta.github.io/)
+- ✨ See my portfolio and resume [here](https://okaberintaroubeta.github.io/)
 
 ### Languages and Tools
 - I am

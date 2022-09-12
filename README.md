@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 - ✨ See my portfolio [here](https://okaberintaroubeta.github.io/)
 
 ### Languages and Tools
+- I am
+  - Proficient in Python and C++
+  - Intermediate in HTML, CSS, Javascript, ReactJS and Angular, basic in Django
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/okaberintaroubeta/github-readme-stats)
 <br>
 ![Zihui's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaberintaroubeta&hide=contribs,prs)

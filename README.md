@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi Everyone 👋
 [![Mail Badge](https://img.shields.io/badge/-okaberintaroubeta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okaberintaroubeta@gmail.com)](mailto:okaberintaroubete@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/profile.jpeg" width="250"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/profile.jpeg" width="350"/>
 
 ### I'm Zihui Liu
 

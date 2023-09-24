@@ -20,25 +20,21 @@ Here are some ideas to get you started:
 
 ### I'm Zihui Liu
 
-- 🔭 Currently a master student majoring in Information Science at University of Michigan, Ann Arbor, USA
-- 📚 Bachelor of Electrical and Computer Engineering in Shanghai Jiaotong University, Shanghai, China
+- 🔭 Currently a master student majoring in **Information Security and Artificial Intelligence** at Carnegie Mellon University
+- 📚 University of Michigan〽️ and Shanghai Jiao Tong University alumni
 - 🌱 Currently working with Professor [Perry Samson](https://clasp.engin.umich.edu/people/samson-perry) on the LearningClues program
-- 💼 Actively seeking internships SDE/full-stack opportunities for 2024
+- 💼 Actively seeking internships SDE/full-stack/data science opportunities for 2024 summer
 - 💬 Ask me about C++, Python and my projects on okaberinatroubeta@gmail.com
-- 👀 Fun fact: I am good at playing badmintion and love animes!
+- 👀 Fun fact: I am good at playing badmintion and love animes and visual novels(Phoenix Wright Series is the best)!
 - ✨ See my portfolio and resume [here](https://okaberintaroubeta.github.io/)
 - 🍅 Try out a todo list with pomodoro clock[⏰](https://todo-list-with-pomodoro-clock-code.vercel.app/) to boost effiency
 
-### Languages and Tools
-- I am
-  - Proficient in Python and C++
-  - Intermediate in HTML, CSS, Javascript, ReactJS and Angular
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/okaberintaroubeta/github-readme-stats)
 <br>
 ![Zihui's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaberintaroubeta&hide=contribs,prs)
 
-
+<img  align="center" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.jpeg" width="500"/>
 
 
 

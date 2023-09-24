@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 ![Zihui's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaberintaroubeta&hide=contribs,prs)
 
-<img  align="center" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.jpeg" width="500"/>
+<img  align="center" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="500"/>
 
 
 

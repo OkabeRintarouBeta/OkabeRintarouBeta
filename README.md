@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<img  align="center" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="1000"/>
+<img  align="right" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="500"/>
 
 
 

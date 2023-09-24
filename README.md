@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/-okaberintaroubeta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okaberintaroubeta@gmail.com)](mailto:okaberintaroubete@gmail.com)
 ---
 
-<img  align="right" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="450"/> <br>
+<img  align="right" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="450"/> 
 
 ### I'm Zihui Liu
 

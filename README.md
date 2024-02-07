@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,latex)](https://skillicons.dev)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaberintaroubeta&hide_progress=true)](https://github.com/okaberintaroubeta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaberintaroubeta&hide_progress=true&hide=jupyternotebook,html,css)](https://github.com/okaberintaroubeta/github-readme-stats)
 <br>
 [![Lucy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okaberintarou)](https://github.com/okaberintaroubeta/github-readme-stats)
 

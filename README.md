@@ -1,19 +1,3 @@
-
-<!--
-**OkabeRintarouBeta/OkabeRintarouBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi Everyone 👋
 [![Mail Badge](https://img.shields.io/badge/-okaberintaroubeta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okaberintaroubeta@gmail.com)](mailto:okaberintaroubete@gmail.com)
 ---
@@ -32,6 +16,14 @@ Here are some ideas to get you started:
 - ✨ See my portfolio and resume [here](https://okaberintaroubeta.github.io/)
 - 🍅 Try out a todo list with pomodoro clock[⏰](https://todo-list-with-pomodoro-clock-code.vercel.app/) to boost effiency
 
+
+### Languages and Tools:
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/okaberintaroubeta/github-readme-stats)
 <br>

@@ -18,7 +18,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,css,html,js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,go,java,css,html,js,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=flask,react,angular,django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,latex)](https://skillicons.dev)

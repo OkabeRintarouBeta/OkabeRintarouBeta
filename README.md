@@ -9,10 +9,7 @@
 
 - 🔭 Currently a master student majoring in **Information Security and Artificial Intelligence** at Carnegie Mellon University
 - 📚 University of Michigan〽️ alumni
-- 🌱 Currently working with Professor [Perry Samson](https://clasp.engin.umich.edu/people/samson-perry) on the LearningClues program
-- 💬 Ask me about C++, Go and my projects on okaberinatroubeta@gmail.com
-- 👀 Fun fact: I am good at playing badmintion and love animes and visual novels(Phoenix Wright Series is the best)!
-- ✨ See my portfolio and resume [here](https://okaberintaroubeta.github.io/)
+- 👀 Fun fact: I love animes and visual novels(Phoenix Wright Series is the best)!
 - 🌟 I am gradually switching from a C++/Python to Go developer, and from a full-stack developer to a system/DevOps engineer.
 
 

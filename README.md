@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Currently a master student majoring in **Information Security and Artificial Intelligence** at Carnegie Mellon University
+- 🔭 Currently a master student @ CMU
 - 📚 University of Michigan〽️ alumni
 - 👀 Fun fact: I love animes and visual novels(Phoenix Wright Series is the best)!
 - 🌟 I am gradually switching from a C++/Python to Go developer, and from a full-stack developer to a system/DevOps engineer.

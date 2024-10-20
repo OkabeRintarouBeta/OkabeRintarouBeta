@@ -13,8 +13,3 @@
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaberintaroubeta&hide=jupyter%20notebook,css,astro,purebasic,html)](https://github.com/okaberintaroubeta/github-readme-stats)
 <br>
-
-
-
-
-⭐️ From [Zihui Liu](https://github.com/OkabeRintarouBeta)

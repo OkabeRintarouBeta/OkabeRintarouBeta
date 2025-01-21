@@ -1,7 +1,9 @@
 ## Happy Coding :(
----
 
 <img  align="center" alt="GIF" src="https://raw.githubusercontent.com/OkabeRintarouBeta/OkabeRintarouBeta/master/great_ace_attorney.gif" width="450"/> 
+
+---
+
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=go,py,java,cpp,js)](https://skillicons.dev)

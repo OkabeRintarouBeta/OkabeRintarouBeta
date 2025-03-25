@@ -6,7 +6,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,py,java,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,python,cpp,js)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,terraform,aws,gcp,git,latex)](https://skillicons.dev)
 
